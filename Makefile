@@ -3,6 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := sample_project
+PROJECT_NAME := touch_pad_read
 
 include $(IDF_PATH)/make/project.mk
